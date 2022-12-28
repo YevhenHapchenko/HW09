@@ -266,6 +266,10 @@ h1{
     float: right;
     font-size: 16px;
 }
+.float_b .in_t_r_c{
+    float: right;
+    font-size: 16px;
+}
 .float_b .in_t_r_c_c{
     float: right;
     font-size: 16px;
@@ -277,6 +281,10 @@ h1{
 }
 .float_b .in_f_r{
     float: right;
+    font-size: 16px;
+}
+.float_b .in_f_l_p{
+    float: left;
     font-size: 16px;
 }
 .float_b .in_f_l_l{
